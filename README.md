@@ -44,20 +44,17 @@ Ingeniero de Sistemas y Desarrollador Full Stack con más de **8 años de experi
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=condoriluis&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img height="170" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Estadísticas generales"/>
 <img height="170" src="https://streak-stats.demolab.com?user=condoriluis&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=condoriluis&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-<img height="170" src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Horario productivo"/>
+<img height="170" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositorios por lenguaje"/>
+<img height="170" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Lenguajes con más commits"/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=condoriluis&theme=tokyo-night&hide_border=true&area=true"/>
 
 <img width="100%" src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Resumen del perfil"/>
 
-<img height="170" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositorios por lenguaje"/>
-<img height="170" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Lenguajes con más commits"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=condoriluis&theme=tokyonight&row=1&column=6&no-frame=true&no-bg=true"/>
+<img height="170" src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Horario productivo"/>
 
 </div>
 
@@ -89,30 +86,14 @@ Ingeniero de Sistemas y Desarrollador Full Stack con más de **8 años de experi
 
 ## Proyectos Destacados
 
-<div align="center">
-
-<a href="https://github.com/condoriluis/gestor-tareas">
-<img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=condoriluis&repo=gestor-tareas&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/condoriluis/fms-bo">
-<img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=condoriluis&repo=fms-bo&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/condoriluis/dev-retos">
-<img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=condoriluis&repo=dev-retos&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/condoriluis/app-secure-vault">
-<img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=condoriluis&repo=app-secure-vault&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/condoriluis/dashboards-vuejs">
-<img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=condoriluis&repo=dashboards-vuejs&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/condoriluis/sistema-registro-usuarios">
-<img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=condoriluis&repo=sistema-registro-usuarios&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
+| Proyecto | Descripción | Stars | Lenguaje principal |
+| --- | --- | --- | --- |
+| [**gestor-tareas**](https://github.com/condoriluis/gestor-tareas) | Gestor de tareas con Next.js, React y TypeScript | ![stars](https://img.shields.io/github/stars/condoriluis/gestor-tareas?style=flat-square&color=2563EB) | ![lang](https://img.shields.io/github/languages/top/condoriluis/gestor-tareas?style=flat-square&color=06B6D4) |
+| [**fms-bo**](https://github.com/condoriluis/fms-bo) | File Manager System con Next.js, React, TypeScript y shadcn/ui | ![stars](https://img.shields.io/github/stars/condoriluis/fms-bo?style=flat-square&color=2563EB) | ![lang](https://img.shields.io/github/languages/top/condoriluis/fms-bo?style=flat-square&color=06B6D4) |
+| [**dev-retos**](https://github.com/condoriluis/dev-retos) | App móvil de retos de programación con gamificación y rankings | ![stars](https://img.shields.io/github/stars/condoriluis/dev-retos?style=flat-square&color=2563EB) | ![lang](https://img.shields.io/github/languages/top/condoriluis/dev-retos?style=flat-square&color=06B6D4) |
+| [**app-secure-vault**](https://github.com/condoriluis/app-secure-vault) | Gestor de credenciales con cifrado Zero-Knowledge | ![stars](https://img.shields.io/github/stars/condoriluis/app-secure-vault?style=flat-square&color=2563EB) | ![lang](https://img.shields.io/github/languages/top/condoriluis/app-secure-vault?style=flat-square&color=06B6D4) |
+| [**dashboards-vuejs**](https://github.com/condoriluis/dashboards-vuejs) | Dashboards dinámicos con Vue.js, Vuetify y Chart.js | ![stars](https://img.shields.io/github/stars/condoriluis/dashboards-vuejs?style=flat-square&color=2563EB) | ![lang](https://img.shields.io/github/languages/top/condoriluis/dashboards-vuejs?style=flat-square&color=06B6D4) |
+| [**sistema-registro-usuarios**](https://github.com/condoriluis/sistema-registro-usuarios) | Gestión de usuarios con roles y permisos | ![stars](https://img.shields.io/github/stars/condoriluis/sistema-registro-usuarios?style=flat-square&color=2563EB) | ![lang](https://img.shields.io/github/languages/top/condoriluis/sistema-registro-usuarios?style=flat-square&color=06B6D4) |
 
 ### Case Studies — proyectos en entornos productivos
 
