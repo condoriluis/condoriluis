@@ -50,8 +50,6 @@ Ingeniero de Sistemas y Desarrollador Full Stack con más de **8 años de experi
 <img height="170" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositorios por lenguaje"/>
 <img height="170" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Lenguajes con más commits"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=condoriluis&theme=tokyo-night&hide_border=true&area=true"/>
-
 <img width="100%" src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Resumen del perfil"/>
 
 <img height="170" src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Horario productivo"/>
